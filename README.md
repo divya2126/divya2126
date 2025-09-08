@@ -1,7 +1,9 @@
  👋 Hi, I’m Divya  
 
 🚀 Aspiring Software Developer | Tech Enthusiast | MERN Stack
+
 💡 Skilled in **HTML, CSS, JavaScript, Node.js, Express.js,React.js MongoDB, Flutter**  
+
 🎯 Focused on building **scalable web apps, AI tools, and cross-platform solutions**  
 
 ---
@@ -25,11 +27,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya2126&show_icons=true&theme=radial)  
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya2126&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya2126&layout=compact&theme=radial)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya2126&layout=compact&theme=radical)  
 
-🏆 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=radial)  
+🏆 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=radical)  
 
  
 
