@@ -31,7 +31,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya2126&layout=compact&theme=radical)  
 
-🏆 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=radical)  
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=radical&margin-w=15&margin-h=15)
+
 
  
 
