@@ -1,7 +1,7 @@
  👋 Hi, I’m Divya  
 
-🚀 Full-Stack Developer | Open Source Contributor | Tech Enthusiast  
-💡 Skilled in **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Flutter**  
+🚀 Aspiring Software Developer | Tech Enthusiast | MERN Stack
+💡 Skilled in **HTML, CSS, JavaScript, Node.js, Express.js,React.js MongoDB, Flutter**  
 🎯 Focused on building **scalable web apps, AI tools, and cross-platform solutions**  
 
 ---
@@ -18,7 +18,7 @@
 
 ### 💻 Tech Stack
 **Languages:** HTML, CSS, JavaScript, C++, Dart  
-**Frameworks/Libraries:** Node.js, Express.js, Flutter  
+**Frameworks/Libraries:** Node.js, Express.js, React.js Flutter  
 **Databases:** MongoDB  
 **Tools & Platforms:** Git, GitHub, Netlify, Firebase  
 
@@ -29,14 +29,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya2126&layout=compact&theme=radial)  
 
-🏆 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=tokyonight)  
+🏆 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divya2126&theme=radial)  
 
-✍️ Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+ 
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/divya2126)  
-- 📷 [Instagram](https://instagram.com/growwithdivyaa__)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyaa21/)  
+- 📷 [Instagram](https://instagram.com/divya21._)  
 - 🌐 Portfolio Website (coming soon 🚀)
+
+  ---
+
+✨ *“Code, Create, Contribute – that’s my mantra!”*  
