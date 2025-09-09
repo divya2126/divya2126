@@ -8,13 +8,15 @@
 
 ---
 
-### 📂 Highlighted Projects
-- 🌐 [**Portfolio Website**](#) – Personal portfolio showcasing my skills & work  
-- 💎 [**Clinix Lasers Website**](#) – SEO-friendly healthcare client project  
-- ♻️ [**Waste Management System (MERN)**](#) – End-to-end project (in progress)  
-- 🎵 [**Spotify Clone**](#) – Responsive music player UI  
-- 🤖 [**AI Quote Generator**](#) – Motivational quotes with AI/API integration  
-- 📱 [**Flutter Mobile App**](#) – Cross-platform app with Firebase  
+## 📂 Highlighted Projects  
+
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) – Personal portfolio showcasing my skills & work  
+- 💎 [Clinix Lasers Website](https://clinixlasers.com) – SEO-friendly healthcare client project  
+- ♻️ [Waste Management System (MERN)](https://github.com/divya2126/waste-management-system) – End-to-end project (in progress)  
+- 🎵 [Spotify Clone](https://github.com/divya2126/spotify-clone) – Responsive music player UI  
+- 🤖 [AI Quote Generator](https://github.com/divya2126/ai-quote-generator) – Motivational quotes with AI/API integration  
+- 📱 [Flutter Mobile App](https://github.com/divya2126/flutter-app) – Cross-platform app with Firebase  
+
 
 ✨ *Always open to collaboration on Full-Stack, Flutter, and AI-based projects*  
 
